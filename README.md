@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Doug Daly
 
-**“Exploring the frontiers of Generative AI through hands-on demos and practical applications.”**
+**“Exploring Generative AI through hands-on demos and practical applications.”**
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, SQL 
 - **AI/ML:** PyTorch, HuggingFace, Diffusers, Transformers, LangChain, LangGraph  
 - **Data:** Pandas, NumPy, scikit-learn, Datasets  
 - **Tools:** Jupyter, Git, Stability.ai API, OpenAI API  
@@ -29,7 +29,7 @@ Hands-on notebooks demonstrating image generation, multi-modal AI, and retrieval
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🌐 [Portfolio Website](https://github.com/dougdaly) 
+- 🌐 [Git](https://github.com/dougdaly) 
 - 📧 [douglasgdaly@gmail.com]  
 
 ---
