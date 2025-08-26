@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Doug Daly
 
 **“Exploring the frontiers of Generative AI through hands-on demos and practical applications.”**
 
@@ -21,19 +21,16 @@
 ---
 
 ## 📂 Featured Projects
-### 🔹 [GenAI Demos Portfolio](https://github.com/your-username/genai-demos)
+### 🔹 [GenAI Demos Portfolio](https://github.com/dougdaly/generative-ai)
 Hands-on notebooks demonstrating image generation, multi-modal AI, and retrieval-augmented generation.  
 <sub>Includes GANs, CLIP, VAEs, Diffusion models, LangGraph multi-agent workflows, and more.</sub>
-
-### 🔹 [Another Project Title](https://github.com/your-username/project-repo)
-Brief 1–2 line description of another strong project you’d like to highlight.  
 
 ---
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🌐 [Portfolio Website](https://your-portfolio-site)  
-- 📧 [your.email@example.com]  
+- 🌐 [Portfolio Website](https://github.com/dougdaly) 
+- 📧 [douglasgdaly@gmail.com]  
 
 ---
 ⭐️ *Thanks for visiting my GitHub! Feel free to check out my work or connect with me.*  
